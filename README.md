@@ -1,5 +1,7 @@
 # Python-application-running-on-the-Terminal
 
+<!-- Application by Mbote-Joseph -->
+
 import sqlite3 as lite
 
 # functionality goes here
